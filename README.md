@@ -15,7 +15,6 @@ $ npm run start:dev
 ## Work
 
 Type http://localhost:3001/graphql in browser and make request, mutation
+<br>
 
-<br>
-<br>
 ![title](title.gif)
